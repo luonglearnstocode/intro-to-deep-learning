@@ -16,6 +16,5 @@
 * [Session07: RNN for recognizing sorted int sequences](http://nbviewer.jupyter.org/github/luonglearnstocode/intro-to-deep-learning/blob/master/session7/Session07_RNN_for_recognizing_sorted_int_sequences.ipynb)
 * Session07: hyperparameter optimization:
 	* [hyperparameter optimization](http://nbviewer.jupyter.org/github/luonglearnstocode/intro-to-deep-learning/blob/master/session7/Session07-hyperparameter-optimization.ipynb)
-	* [train optimized model]
-	(http://nbviewer.jupyter.org/github/luonglearnstocode/intro-to-deep-learning/blob/master/session7/Session07_hyperparameter_optimization_model.ipynb)
+	* [train optimized model](http://nbviewer.jupyter.org/github/luonglearnstocode/intro-to-deep-learning/blob/master/session7/Session07_hyperparameter_optimization_model.ipynb)
 * [Session07: word-level text generation](http://nbviewer.jupyter.org/github/luonglearnstocode/intro-to-deep-learning/blob/master/session7/Session07_word_level_text_generation.ipynb)
